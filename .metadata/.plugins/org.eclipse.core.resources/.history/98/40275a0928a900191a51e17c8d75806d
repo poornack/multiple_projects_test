@@ -1,0 +1,83 @@
+StdPeriph_Driver/src/stm32f0xx_iwdg.o: \
+ ../StdPeriph_Driver/src/stm32f0xx_iwdg.c \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_iwdg.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/CMSIS/device/stm32f0xx.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/CMSIS/core/core_cm0.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/CMSIS/core/core_cmInstr.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/CMSIS/core/core_cmFunc.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/CMSIS/device/system_stm32f0xx.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_conf.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_cec.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_crc.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_comp.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_dac.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_dbgmcu.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_dma.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_exti.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_flash.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_gpio.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_syscfg.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_i2c.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_iwdg.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_pwr.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_rcc.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_rtc.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_spi.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_tim.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_usart.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_wwdg.h \
+ C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_misc.h
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_iwdg.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/CMSIS/device/stm32f0xx.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/CMSIS/core/core_cm0.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/CMSIS/core/core_cmInstr.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/CMSIS/core/core_cmFunc.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/CMSIS/device/system_stm32f0xx.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_conf.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_cec.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_crc.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_comp.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_dac.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_dbgmcu.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_dma.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_exti.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_flash.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_gpio.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_syscfg.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_i2c.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_iwdg.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_pwr.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_rcc.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_rtc.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_spi.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_tim.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_usart.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_wwdg.h:
+
+C:/Poorna/OneDrive\ -\ University\ of\ Victoria/University/Clubs/AUVic/mono_repo/firmware/test1/StdPeriph_Driver/inc/stm32f0xx_misc.h:
